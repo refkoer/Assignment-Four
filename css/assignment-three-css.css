@@ -1,0 +1,68 @@
+html{
+	background-color: #9bc2d4
+
+}
+body{
+	font-size:1.3rem;
+	font-family: 'Oswald', sans-serif;
+}
+h1{
+font-family: 'Oswald', sans-serif;
+	text-decoration: underline;
+	font-size: 3rem;
+	line-height: 1;
+
+}
+
+ol{
+	list-style-type: none;
+	padding: 0;
+
+}
+
+ul{
+	list-style-type: upper-roman;
+}
+
+a{
+	color:#4a7b91;
+}
+
+a:hover{
+	color: #9bdfff;
+}
+
+dt{
+	font-weight:bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+figcaption{
+	font-style: italic;
+	font-size: 1rem;
+	font-family: 'Josefin Slab', serif;
+}
+
+blockquote{
+	font-family: 'Josefin Slab', serif;
+	font-size: 2rem;
+	color: #4a7b91;
+	font-style: italic;
+}
+
+b,em{
+	color: #4a7b91;
+}
+
+footer{
+	font-size: 1rem;
+	text-align: center;
+	line-height: 6;
+}
+
+strong{
+	font-style:italic;
+	font-weight: normal;
+}
+
+
