@@ -24,8 +24,6 @@ header{
 			margin: 0;
 }
 
-head{
-	margin: 0;
 }
 
 h1{
@@ -50,7 +48,7 @@ body{
 	font-size:1rem;
 	font-family: 'Oswald', sans-serif;
 	margin: 0;
-	border: 5px;
+	
 }
 
 
