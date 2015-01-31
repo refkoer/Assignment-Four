@@ -37,13 +37,15 @@ body{
 	margin: 0;
 }
 
+
+
 h1{
 		background-color: #4157c9;
 	padding: 0.5em 1em 0.5em 1em;
 	margin: 0;
 	border: #304092;
 
-	width: 50;
+	width: 100;
 	color: white;
 	text-align: center;
 	text-decoration: none;
@@ -124,6 +126,6 @@ strong{
 
 aside{
 	background-color: #4157c9;
-	
+
 }
 
